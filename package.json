@@ -1,6 +1,6 @@
 {
   "name": "serene-shadow-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight library for serene shadow effects on UI elements.",
   "main": "index.js",
   "scripts": {
